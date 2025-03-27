@@ -1,0 +1,13 @@
+name = "Create: Garnished"
+filename = "creategarnished-0.1.2+1.21.1-neoforged.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2b987329c711f912bd5bf35b0b0b7ac07268d1a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6355745
+project-id = 923277
