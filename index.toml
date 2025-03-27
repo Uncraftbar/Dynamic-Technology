@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "complementary-unbound.pw.toml"
+hash = "db468f148fd398ebc54ab6f1d5e16069dd58f90af49df62f247b40060fe51255"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "fd4156ee76622661111c29c4cd41f197168510bc1df50c6ba41ee9ace18c3d0e"
 metafile = true
@@ -156,11 +161,6 @@ hash = "5b610876dae9779654c74b1a71d15c0303a39eb62459201921b30f4731985e18"
 metafile = true
 
 [[files]]
-file = "mods/create-encased.pw.toml"
-hash = "eceeeb5adbdf54ec24dae57eef9b5afad1c2e344016da3c1db915331a1cb3c06"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantable-machinery.pw.toml"
 hash = "80c8390772c8f2be3908f5062f59ba55718e7f2a4cd69c2bbdc5e727f4ef515c"
 metafile = true
@@ -208,11 +208,6 @@ metafile = true
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "4e17bb162ec01a70bdcdafe76e6dbe77830ec727d236c94309298e96199d5012"
-metafile = true
-
-[[files]]
-file = "mods/create-ultimate-factory.pw.toml"
-hash = "a9239f3bcbbe5983b30ed3eeab138382f4b71be8d9f0f7776dc4ba4331c03672"
 metafile = true
 
 [[files]]
@@ -673,11 +668,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "127a71823aadb3ca9e98049ee8de0916159a8d316d963f1e880db978941c5ff4"
-metafile = true
-
-[[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "4fa1fc9965a7ccc088d2b8d8ffdca577c7ae7a1f163636dbef9c07614ef5e192"
 metafile = true
 
 [[files]]
