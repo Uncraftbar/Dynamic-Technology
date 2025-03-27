@@ -71,6 +71,11 @@ hash = "49b967aebb3675a506407a314919f8a9eb0277ec7fc5da1d34812882104b0f71"
 metafile = true
 
 [[files]]
+file = "mods/bouncier-beds.pw.toml"
+hash = "b5ea9a685e490cf404c360bec432796edd833e8cd5f57688fbf0e254450261d1"
+metafile = true
+
+[[files]]
 file = "mods/camol.pw.toml"
 hash = "7482d323d565ad7802d818ae9349b6623b99f105ba9811867d4d82dc91b5b9d2"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "ef32ca0f64ab103992221dbfe98376725e6cf55d95bc4a0cc404bb9c37fad828"
 metafile = true
 
 [[files]]
