@@ -1,9 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-unbound.pw.toml"
-hash = "db468f148fd398ebc54ab6f1d5e16069dd58f90af49df62f247b40060fe51255"
-metafile = true
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "a884789292c624db48af6507f33912c9dd3f59e8c8926512efa41cb9366e58cf"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/introduction.snbt"
+hash = "34fe7f547a53a75dff622ee3e8754d98d8d230e89f36ec7752f5a0a18d608764"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/overview.snbt"
+hash = "8fbfdf5d057a009cb0f3895f658e39bc4e496a534cc9b9354b4ca2d19e8747fa"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "6fd6f7a8adf8e6d9fd4d0ef68d1fad516cc1556b0805655a58d925f80c22f670"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "456f77d6573b18a040b1dd353c687e614d96167f30bdcc0b04aae97331e25c98"
+
+[[files]]
+file = "kubejs/assets/dynamictechnology/textures/quests/logo.png"
+hash = "ff7807ba57be9260e426d65c576bbd1153a310f99c5e1504ebf2085a5a7a15d3"
+
+[[files]]
+file = "kubejs/assets/dynamictechnology/textures/quests/questlogo.png"
+hash = "8284e69e0c2c09264c6669513d25174cc323c9e38c9419295677dc1e3f9393e0"
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -288,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "f885fa3bea3969aa0dac1ec6f3f49ca7e894208ab9a2e69ed4aa649f67d3722d"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "2134b3d912f7681ed4e3842ef1f83211af26a3373157b8b9af3783b16ab791a0"
 metafile = true
 
 [[files]]
@@ -753,4 +781,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras-neoforge.pw.toml"
 hash = "15c30a404bc24e1806a780ae83e5a7364d04fac86e2ec448a1a44342935ef0da"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "db468f148fd398ebc54ab6f1d5e16069dd58f90af49df62f247b40060fe51255"
 metafile = true
