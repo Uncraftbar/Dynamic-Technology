@@ -1,0 +1,13 @@
+name = "Create: Ironworks [Forge/Fabric/NeoForge]"
+filename = "create_ironworks-3.7.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed98906e0ec45593899c17ea75b886114e10d7d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6326885
+project-id = 1068172

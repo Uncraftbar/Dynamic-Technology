@@ -1,0 +1,13 @@
+name = "Create: More Sand Papers"
+filename = "createsandpapers-1.21.1-1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f06883ac2172e1ceaf93502ae2c563d6f94c47e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6331805
+project-id = 836544

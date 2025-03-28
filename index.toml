@@ -209,6 +209,11 @@ hash = "6576a9c0a7d60165cc5917707a2aeda628ce9aedc666ae5b4a412694cae3fddd"
 metafile = true
 
 [[files]]
+file = "mods/create-ironworks.pw.toml"
+hash = "f35741b103da220791df711700e91e586a9972455ea2ba44dc45fcb8f5647450"
+metafile = true
+
+[[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
 hash = "59f5045b83187c505311bf1486f351d15be7a788e1b6e4e565e7bd3009835bb1"
 metafile = true
@@ -221,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/create-molten-vents.pw.toml"
 hash = "44a2afc76027c4baa63952fc4924a5c149b6890e20a9f13a9de08d1eafe3e296"
+metafile = true
+
+[[files]]
+file = "mods/create-more-sand-papers.pw.toml"
+hash = "8e4a24ef57be600a6f0db21b27048d3101fe0b7afb27dfa45ae11e3695159391"
 metafile = true
 
 [[files]]
@@ -269,8 +279,18 @@ hash = "5f8c67d88dd95bc846048e547e28de356c275d66d3ef66178db72d9a335a52fe"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "470b0d6784bece922b1664b34eb022cdcfdffb6c36247389eb32a8154d20057f"
+metafile = true
+
+[[files]]
 file = "mods/dis-enchanting-table.pw.toml"
 hash = "1a007e5c11b72ac114186d73344635f6c9d43824962b5070cb83ae90a181114b"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "7d35cd84dbd0f20e79854043b460c9318d1ecfad114070ec698da540c39bc15a"
 metafile = true
 
 [[files]]
@@ -321,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "0e283d168b58e22bc6310a02165efaeb158148d6d2d2284ba2b628951670f94e"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "45c719e13eb0583f94f7145d7d5125b60f35d9b2f8d9a6dce2d64174c25315ee"
 metafile = true
 
 [[files]]
@@ -434,6 +459,11 @@ hash = "cfbd559d71ee11e13fc927fe82c75c37e2c198b29fb03825fec737882dead9a2"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "51e8c729a6722d04ff85da2afac2b1c2178587be7713027cbc9cd0c58f668929"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fe64d3dd484296b6a6b36a7e7c96d6f17ce21bc274cf33abd223a8b0587befb1"
 metafile = true
@@ -471,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/magnum-torch-forge.pw.toml"
 hash = "020adc06090214975729d9ad9acbe7a1c9d326656901459c26073fdb9a73a8bb"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
 
 [[files]]
