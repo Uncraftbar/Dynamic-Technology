@@ -1,6 +1,70 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5"
+
+[[files]]
+file = "config/fancymenu/assets/background.png"
+hash = "c620c90d19028398511cd5ce45037762ed7ff18f7609bbac586f3a6d87439b03"
+
+[[files]]
+file = "config/fancymenu/assets/icon16.png"
+hash = "1db4eac5f6ec8a7c5f7627900bae8a8e0cf774ffd9d72e55e76628221ee3d7d2"
+
+[[files]]
+file = "config/fancymenu/assets/icon32.png"
+hash = "de6ba3ede4b33e3299c5bad419db91717f09a4b2a126ca16619972ecccfe6e82"
+
+[[files]]
+file = "config/fancymenu/assets/iconmacos.icns"
+hash = "3897be16abfac1ebb875df3bcf7cfe40ff893f56eca52013f11ac3a8e32d8e24"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "ef16e6f8f089a45ac37967296a027b0c2a42b675c727065a199baf44c5341ccd"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "d70d44ea85268235d9036b29108b476a16e57df443dc8ade3244e647a1168e08"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "134194e726c570b116ff03f9aef331da721c409c0c2f7d17409564a6ad583d9f"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "9660c0c4b357d0f0f7e8776290ce1def2b887ab77835181514038b47b8001100"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "a884789292c624db48af6507f33912c9dd3f59e8c8926512efa41cb9366e58cf"
 
