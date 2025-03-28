@@ -1,0 +1,13 @@
+name = "Bouncier Beds"
+filename = "bouncierbeds-1.21.1-2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b5145bd81a902fa706da0e2c205ca75fd25db60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6186389
+project-id = 514725

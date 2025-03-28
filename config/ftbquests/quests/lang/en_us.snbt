@@ -1,0 +1,248 @@
+{
+	chapter.371EC80AA59E49FB.title: "Overview"
+	chapter.3B5287034ED08D40.title: "Introduction"
+	chapter_group.5F24654E3E5ABEDA.title: "Introduction"
+	quest.0B2069286EBC868A.quest_desc: [
+		"This is a &l&ngame-changer&r&r if you know how to use it!"
+		""
+		"Before, trying to mix Sophisticated Storage with Create contraptions was a risky move—best case scenario? &ovoiding your items.&r"
+		""
+		"But now, &lall that changes&r! This mod adds &nfull compatibility&r between Sophisticated Storage and Create contraptions. And yes, upgrades work too! :O"
+		""
+		"Want to &lvoid out&r stone from a mining drill contraption? No problem! Just add a &lSophisticated Barrel&r, slap on a Void Upgrade, configure it, and you're all set!"
+		""
+		"The possibilities are &nendless&r, and it only gets better from here."
+	]
+	quest.0B2069286EBC868A.quest_subtitle: "What a long name"
+	quest.1217969946E7CEE9.quest_desc: [
+		"Welcome to Dynamic Technology!"
+		""
+		"This is a mainly &cCreate&r focused pack created for the new &b6.0&r update."
+		"Of course there are other mods, but Create will be the main focus of this pack."
+		""
+		"The main focus of the &lQuests&r will be to explain the new features and Creates many addons that are included."
+	]
+	quest.1217969946E7CEE9.quest_subtitle: "Thanks for downloading :D"
+	quest.1217969946E7CEE9.title: "Welcome!"
+	quest.19C2EC5D48E8D1AF.quest_desc: [
+		"There are plenty of extra recipes to help you get &ldecorative blocks&r more &oeasily&r."
+		""
+		"For example, you can oxidize Copper using a &lSpout&r!"
+		""
+		"Check out &nEMI&r to see if there’s a recipe for the blocks you need."
+	]
+	quest.19C2EC5D48E8D1AF.quest_subtitle: "Decoration is important"
+	quest.1A1C38ECF7A2E349.quest_desc: [
+		"I know, I know, villagers can be a pain, especially when they refuse to cooperate..."
+		""
+		"Luckily, with this mod and &lEasy Villagers&r combined, you can keep villager interaction to a minimum."
+		""
+		"It allows you to automate villager trades, making things a lot more convenient! Pretty handy, right?"
+		""
+		"For balancing reasons, Iron Farms and Auto Traders from Easy Villagers are disabled, no getting off that easy! :P"
+		""
+		"Head to the Villager chapter to learn more!"
+	]
+	quest.1A1C38ECF7A2E349.quest_subtitle: "Villagers suck"
+	quest.1A1C38ECF7A2E349.title: "Create: Trading Depot"
+	quest.1A4AFAF37A93AAEA.quest_desc: [
+		"We use &lXaero’s&r as our main map mod because it offers great performance and ease of use."
+		""
+		"To open it, &lsimply press M&r. However, since the FTB map also uses M by default, you may need to rebind the key. I recommend just unbinding the FTB map, as you can still access it easily from your inventory, and it’s not as essential."
+	]
+	quest.1A4AFAF37A93AAEA.quest_subtitle: "Dont get lost"
+	quest.1A4AFAF37A93AAEA.title: "The Map"
+	quest.1B36B344F5922290.quest_desc: [
+		"These mods focus on new ways to &lgenerate resources&r, making automation even more efficient."
+		""
+		"Whether it’s &linfinite ore veins&r, improved farmable materials, or unique &lprocessing methods&r, there’s always a way to keep your factory running!"
+	]
+	quest.1B36B344F5922290.quest_subtitle: "Delicous Automation"
+	quest.1D9107944155C7F4.quest_desc: [
+		"We all know and love &cCreate's&r schematic system, but what if it could be automated &oeven further&r?"
+		""
+		"That’s where this mod comes in! It lets you create &lrepeating patterns&r, so you can easily automate the placement of schematics."
+		""
+		"With this mod, you can even use the Schematic Cannon on Trains. Want to build a detailed wall along your train tracks? No problem with this mod!"
+	]
+	quest.1D9107944155C7F4.quest_subtitle: "Because building by hand is lame"
+	quest.2AFCBD4076F97154.quest_desc: [
+		"Yep, you read that right, Enchantable Create blocks!"
+		""
+		"This mod lets you enchant your Create blocks with enchantments like Efficiency or even Fortune."
+		""
+		"There’s a ton of blocks supported, so feel free to experiment and see what works!"
+	]
+	quest.2AFCBD4076F97154.quest_subtitle: "this might be OP..."
+	quest.325980044CDF55CC.quest_desc: [
+		"The claim mod in this pack is &lFTB Claims&r."
+		""
+		"To access the claim manager, open your inventory and look for the button in the &ltop left corner&r. Simply drag and click to select the area you want to protect!"
+		""
+		"If you &lhold Shift while clicking a chunk&r, it will be &lforceloaded&r, keeping your machines and contraptions running even when you're away on your adventures."
+	]
+	quest.325980044CDF55CC.quest_subtitle: "Protect your stuff"
+	quest.325980044CDF55CC.title: "Claims"
+	quest.382A8E7CC3AB4DB1.quest_desc: ["&l&cCreate&r Garnished&r doesn't add any structures, but it introduces a variety of &lnew nut types&r that you can harvest and eat. Enjoy snacking on these &otasty&r additions!"]
+	quest.382A8E7CC3AB4DB1.quest_subtitle: "Thats nuts!"
+	quest.382A8E7CC3AB4DB1.title: "Create: Garnished"
+	quest.39A7D98442648596.quest_desc: [
+		"A collection of &osmall&r but &lpowerful&r additions that improve your gameplay experience."
+		""
+		"Whether it’s &lnew tools&r, automation tweaks, or &lquality-of-life&r improvements, these mods add those little details that make a big difference!"
+	]
+	quest.3EE89A9073062BE0.quest_desc: [
+		"Of course, we need villagers to automate first..."
+		"That’s where this mod comes in!"
+		""
+		"It adds &l4 new villagers&r who sell &cCreate&r blocks and items, making your automation efforts much easier."
+		""
+		"For more detailed info, check out the &lVillager chapter&r!"
+	]
+	quest.3EE89A9073062BE0.quest_subtitle: "Now its getting more interesting"
+	quest.3EE89A9073062BE0.title: "Create: Better Villager"
+	quest.40077984E30574DB.quest_desc: [
+		"These mods bring new &ldecorative blocks&r to help you build in style!"
+		""
+		"From &lexpanded color palettes&r to intricate details, you’ll have plenty of options to make your &ocontraptions&r and &obases&r look even better."
+	]
+	quest.40077984E30574DB.title: "Decoration"
+	quest.44BABEC6E288AD36.quest_desc: [
+		"This pack includes a &lwide variety of &cCreate&r add-ons&r, with even more planned for the future as they update!"
+		""
+		"To keep things simple, this chapter will provide a brief overview of what’s included, so you don’t get overwhelmed."
+		""
+		"If you want to dive deeper into a specific mod, just check out its &lown category&r for more details."
+	]
+	quest.44BABEC6E288AD36.quest_subtitle: "Lots of readin, i know"
+	quest.46C0A637EC179D83.quest_desc: [
+		"This pack includes both &lWaystones&r and the &l/home&r command for quick travel to saved locations."
+		""
+		"To set a home, just type &l/sethome [name]&r. Then, you can return anytime with &l/home [name]&r."
+		""
+		"And as for Waystones… well, you know how those work, right? "
+	]
+	quest.46C0A637EC179D83.quest_subtitle: "But wait, thats cheating!!"
+	quest.514D5F12A85F3F84.quest_desc: [
+		"Bells and Whistles adds a lot of Deco blocks, mostly focused around train additions. "
+		""
+		"Doesnt do much other than looking good :D"
+	]
+	quest.514D5F12A85F3F84.quest_subtitle: "I love trains"
+	quest.54AEC63F19B07637.quest_desc: [
+		"These mods primarily adds new &lstructures&r built with &l&cCreate&r&r blocks."
+		""
+		"Exploring them can be a great way to pick up some useful starter items to kick off your adventure!"
+	]
+	quest.54AEC63F19B07637.quest_subtitle: "LOOT!"
+	quest.56EF897EADC9ED96.quest_desc: [
+		"This mod adds a variety of smaller but useful features, including:"
+		""
+		"-   A new way to create &2Glue&r"
+		"-   A new weapon, the &lSpout Gun&r"
+		"-   A &lMending Rune&r to repair all your mending items with the XP in your bar"
+		"-   Various new signs"
+		"    ...and much more!"
+		""
+		"For a full list, it’s probably best to check out EMI and search for @misc."
+	]
+	quest.56EF897EADC9ED96.quest_subtitle: "Its in the name"
+	quest.56EF897EADC9ED96.title: "Create: Misc and Things "
+	quest.5A0268EED620FE84.quest_desc: [
+		"&cCreate&r’s Framed Glass, but in more &4c&r&co&r&6l&r&eo&r&ar&r&2s&r!"
+		""
+		"What more could you ask for?"
+	]
+	quest.5A0268EED620FE84.quest_subtitle: "More glass!"
+	quest.5A0268EED620FE84.title: "Create: Framed"
+	quest.5F1C6682A441B24F.quest_desc: ["Simply adds more structures!"]
+	quest.5F1C6682A441B24F.quest_subtitle: "LOOT!"
+	quest.5F1C6682A441B24F.title: "Create: Easy Structures"
+	quest.60FA4351F7E1CABE.quest_desc: [
+		"With this mod, you can &lautomate&r the creation of the various &lstone types&r added by &cCreate&r, such as &4Crimsite&r or &aVeridium&r."
+		""
+		"You can use them for decorating your builds or further process them into &luseful resources&r!"
+		""
+		"To learn more, check out its chapter!"
+	]
+	quest.60FA4351F7E1CABE.quest_subtitle: "Infinite Create stones :O"
+	quest.620CEA274EF57F72.quest_desc: [
+		"This is one of the options for &lore generation&r in the pack."
+		""
+		"The mod adds hidden &linfinite ore&r veins scattered throughout the world, which you can mine using special machines."
+		""
+		"For more details, head over to its chapter!"
+	]
+	quest.620CEA274EF57F72.quest_subtitle: "Infinite ores :O"
+	quest.6BEE800C351758EA.quest_desc: [
+		"This mod adds Compressed Blocks for many &cCreate&r items, including:"
+		""
+		"-   Crushed Ores"
+		"-   Metal Sheets"
+		"-   Mechanical Parts (cogs, etc.)"
+		"-   Rose Quartz"
+		""
+		"    …and more!"
+		""
+		"Perfect for &lcompact storage&r or &lbulk processing&r!"
+		""
+		"And of course, works with the sophisticated Compression upgrade too"
+	]
+	quest.6BEE800C351758EA.quest_subtitle: "Dont forget the compression upgrade"
+	quest.6BEE800C351758EA.title: "Create: Compressed"
+	quest.7008E371E19296F9.quest_desc: [
+		"While not specifically a &cCreate&r add-on, in this modpack, all Chipped blocks are added to the &lStone Cutter&r!"
+		""
+		"This means you can now automate them using the &lsaw&r. Just make sure to set a &ofilter&r on the saw first."
+	]
+	quest.7008E371E19296F9.quest_subtitle: "Wait, this isnt a Create addon?!"
+	quest.75289F9784F97192.quest_desc: ["Simply adds even more structures!"]
+	quest.75289F9784F97192.quest_subtitle: "MORE LOOT!"
+	quest.76B86A45329698EA.quest_desc: [
+		"If you're playing with friends, you can open the Team Menu also in the top left of your inventory."
+		""
+		"From there, you can &lcreate a party&r and add your friends or simply &lally them&r to give them access to your claims."
+	]
+	quest.76B86A45329698EA.quest_subtitle: "Got friends?"
+	quest.7879C64C7053BD69.quest_desc: [
+		"There are plenty of new structures added by various mods, many of them &l&cCreate&r-themed&r!"
+		""
+		"For world generation, this pack includes Terralith and Biomes O' Plenty, bringing a variety of unique and beautiful landscapes to explore."
+		""
+		"It's highly recommended to venture out and &lloot everything you can&r—you never know what useful resources you might find to kickstart your adventure! Of course, you don’t have to, but it might just give you a nice head start. :D"
+	]
+	quest.7879C64C7053BD69.quest_subtitle: "Next best thing after making factories"
+	quest.7BD49056E530B95E.quest_desc: [
+		"Perfectly tying into the above mod, you can now use &lTom's Simple Storage&r Interfaces on &cCreate&r contraptions!"
+		""
+		"It’s as easy as &lgluing the interface&r onto a contraption, and it will display the &lentire storage&r of that contraption in a simple, easy-to-use interface. "
+		"Of course, this works with &oVanilla chests&r, &o&cCreate&r &oVaults&r or the previous mentioned &oSophisticated storage&r or any other option."
+		""
+		"It really doesn’t get much simpler than that!"
+	]
+	quest.7BD49056E530B95E.quest_subtitle: "Searching through chests sucks"
+	quest.7BD49056E530B95E.title: "Create Contraption Terminals"
+	task.00318849FB311085.title: "Create: Ore Excavation"
+	task.00D99F46A981DF16.title: "Misc."
+	task.05AF6A22E9EE9D31.title: "Sophisticated Storage Create Integration"
+	task.087879F5B9BCF822.title: "Create: Bells and Whistles"
+	task.0B3F4AE44FFDB667.title: "Create Easy Structures"
+	task.0E40876757931D8B.title: "The map"
+	task.0EBD51697A159392.title: "Welcome!"
+	task.106D6ABFC4288306.title: "Generation"
+	task.170623988AE2928C.title: "Create: Better Villager"
+	task.1861BC89D8E0E1CC.title: "Exploration"
+	task.227AF36DE4B929F2.title: "Processing"
+	task.2A4ECDDACF010CC4.title: "Create: Misc and Things "
+	task.2DCF427770BB4B23.title: "Create: Molten Vents"
+	task.2F2A0AA837200435.title: "Create: Let The Adventure Begin"
+	task.365CA8889B8E8D65.title: "Create Compressed"
+	task.465D23CCB9891F04.title: "Create: Enchantable Machinery"
+	task.4A64895E2B4207E9.title: "Multiplayer"
+	task.4B88D3421763240A.title: "Recipes"
+	task.4EDFC6DDBBF05761.title: "Teleportation?"
+	task.57BCDD2E83FDD774.title: "Exploration"
+	task.5C8ADC3177DE104D.title: "Map and claims"
+	task.628AF31ECC0293C5.title: "Addons?"
+	task.6C89F020245761BE.title: "Chipped Automation"
+}
