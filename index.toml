@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "9398487eb1ddd1183229b65e182fd10de6f5d1d67cf8b6392771ab1f1b71802e"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "8848bf64fce1b70d741d4d7dc4fbc03faad02b889df31dd47e8741f7ac6c67d9"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "cfa81c19a0f99e5d88f17c5a16242e3d8cf593b4b1dda31a5c0ac55ee22afa25"
+
+[[files]]
 file = "config/drippyloadingscreen/options.txt"
 hash = "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5"
 
@@ -34,7 +46,7 @@ hash = "8e15b8fdd11e054e25d49c37ce6a448807a7e6e34f9c3b46dc4d222aa0aca44b"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "d70d44ea85268235d9036b29108b476a16e57df443dc8ade3244e647a1168e08"
+hash = "686258a2bc0cafedf8aac002dd3e84feb4a45a3eea02e8099a2eee94a01c730b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
