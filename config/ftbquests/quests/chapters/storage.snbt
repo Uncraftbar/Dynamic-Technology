@@ -1,0 +1,22 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage"
+	group: "364D2F9976D16B07"
+	icon: {
+		id: "toms_storage:storage_terminal"
+	}
+	id: "70D951B08F96128E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "06D26D21C0FE1C2C"
+		tasks: [{
+			id: "3F4D1FE59ED49518"
+			item: { count: 1, id: "toms_storage:storage_terminal" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: -2.5d
+	}]
+}

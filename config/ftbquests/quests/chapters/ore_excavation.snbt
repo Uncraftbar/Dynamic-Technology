@@ -1,0 +1,84 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ore_excavation"
+	group: "5C16CBEE7193CEB3"
+	icon: {
+		id: "createoreexcavation:netherite_drill"
+	}
+	id: "018E8A0A14580EE1"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["620CEA274EF57F72"]
+			icon: {
+				id: "createoreexcavation:vein_finder"
+			}
+			id: "3DAE7EBC7D7097C2"
+			tasks: [
+				{
+					id: "0156474B927EDE09"
+					item: { count: 1, id: "createoreexcavation:vein_finder" }
+					type: "item"
+				}
+				{
+					id: "23EA5B1C80874414"
+					item: { count: 1, id: "createoreexcavation:vein_atlas" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3DAE7EBC7D7097C2"]
+			icon: {
+				id: "createoreexcavation:sample_drill"
+			}
+			id: "3AB8AA4D5617ED0E"
+			tasks: [
+				{
+					id: "5A986770A311D380"
+					item: { count: 1, id: "createoreexcavation:sample_drill" }
+					type: "item"
+				}
+				{
+					id: "584B5B7CD0C241BE"
+					item: { count: 1, id: "create:copper_backtank" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3AB8AA4D5617ED0E"]
+			id: "6AD19FAD2FA62368"
+			tasks: [
+				{
+					id: "30D6C3480ED3E6FB"
+					item: { count: 1, id: "createoreexcavation:drilling_machine" }
+					type: "item"
+				}
+				{
+					id: "7B6315D716B22407"
+					item: { components: { "ftbfiltersystem:filter": "or(item_tag(createoreexcavation:drills))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6AD19FAD2FA62368"]
+			id: "4EEF666819DD5C97"
+			tasks: [{
+				id: "2AAF877785A5BA88"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+}

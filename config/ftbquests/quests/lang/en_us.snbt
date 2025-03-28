@@ -1,7 +1,16 @@
 {
+	chapter.018E8A0A14580EE1.title: "Ore Excavation"
+	chapter.07BD9954D20718BA.title: "Villagers"
+	chapter.1190001CF10C3EC6.title: "Molten Vents"
 	chapter.371EC80AA59E49FB.title: "Overview"
 	chapter.3B5287034ED08D40.title: "Introduction"
+	chapter.4274AA4A13438267.title: "Relics"
+	chapter.48D9F3430EF25741.title: "Bosses"
+	chapter.70D951B08F96128E.title: "Storage"
+	chapter_group.364D2F9976D16B07.title: "Other Stuff"
+	chapter_group.5C16CBEE7193CEB3.title: "Create Addons"
 	chapter_group.5F24654E3E5ABEDA.title: "Introduction"
+	quest.085B7E8B9E24EF9E.title: "Molten Vents"
 	quest.0B2069286EBC868A.quest_desc: [
 		"This is a &l&ngame-changer&r&r if you know how to use it!"
 		""
@@ -48,7 +57,9 @@
 	quest.1A4AFAF37A93AAEA.quest_desc: [
 		"We use &lXaero’s&r as our main map mod because it offers great performance and ease of use."
 		""
-		"To open it, &lsimply press M&r. However, since the FTB map also uses M by default, you may need to rebind the key. I recommend just unbinding the FTB map, as you can still access it easily from your inventory, and it’s not as essential."
+		"To open it, &lsimply press M&r. "
+		""
+		"(If it doesnt, its because the FTB map also uses M by default, you may need to rebind it. I recommend just unbinding the FTB map, as you can still access it easily from your inventory, and it’s not as essential.)"
 	]
 	quest.1A4AFAF37A93AAEA.quest_subtitle: "Dont get lost"
 	quest.1A4AFAF37A93AAEA.title: "The Map"
@@ -91,6 +102,48 @@
 		""
 		"Whether it’s &lnew tools&r, automation tweaks, or &lquality-of-life&r improvements, these mods add those little details that make a big difference!"
 	]
+	quest.3AB8AA4D5617ED0E.quest_desc: [
+		"So now we can dig down, right??? &lWrong.&r"
+		""
+		"Once you've located a &lvein&r, it's time to use the &lSample Drill&r to add it to your &lOre Vein Atlas&r."
+		""
+		"&nWhy Use the Ore Vein Atlas?&r"
+		""
+		"-   Once a vein is added, you can target or exclude specific ores, making future searches much easier."
+		""
+		"-   It also collects the veins you have added to it, showing you the coordinates."
+		""
+		"&nHow to Use the Sample Drill:&r"
+		""
+		"-   Place the Sample Drill in the chunk where you found the ore vein."
+		""
+		"-   Put a filled Backtank on top."
+		""
+		"-   Right-click the drill, then wait a bit."
+		""
+		"-   Once it's done, right-click the drill with your Ore Vein Atlas to record the vein!"
+	]
+	quest.3AB8AA4D5617ED0E.quest_subtitle: "Of course its not that easy..."
+	quest.3DAE7EBC7D7097C2.quest_desc: [
+		"So, I promised &linfinite ore veins&r, right?"
+		""
+		"You might be tempted to just &odig straight down&r and hope for the best… but that won’t get you very far."
+		""
+		"&nHow to Find Ore Veins&r:"
+		""
+		"Start by crafting these two key items, then walk around while right-clicking the Ore Vein Finder."
+		""
+		"Watch for messages in chat:"
+		""
+		"\"Found traces of\" → A vein is somewhere nearby, but still a bit far."
+		""
+		"\"Found nearby\" → The vein is in a neighboring chunk."
+		""
+		"\"Found in chunk\" → Jackpot! The vein is right under you."
+		""
+		"Pro tip: Press &lF3+G&r to display chunk borders and make tracking veins much easier!"
+	]
+	quest.3DAE7EBC7D7097C2.quest_subtitle: "INFINITE RESOURCES!!"
 	quest.3EE89A9073062BE0.quest_desc: [
 		"Of course, we need villagers to automate first..."
 		"That’s where this mod comes in!"
@@ -123,6 +176,14 @@
 		"And as for Waystones… well, you know how those work, right? "
 	]
 	quest.46C0A637EC179D83.quest_subtitle: "But wait, thats cheating!!"
+	quest.4EEF666819DD5C97.quest_desc: [
+		"Now your Mining Drill should be producing raw ores!"
+		""
+		"Some of these may require further processing before they become useful."
+		""
+		"Want to see all available veins? Just search for \"vein\" in EMI to check out every vein and where to find them!"
+	]
+	quest.4EEF666819DD5C97.quest_subtitle: "EMI is amazing"
 	quest.514D5F12A85F3F84.quest_desc: [
 		"Bells and Whistles adds a lot of Deco blocks, mostly focused around train additions. "
 		""
@@ -174,6 +235,23 @@
 		"For more details, head over to its chapter!"
 	]
 	quest.620CEA274EF57F72.quest_subtitle: "Infinite ores :O"
+	quest.6AD19FAD2FA62368.quest_desc: [
+		"Found a vein of a resource you want? Great!"
+		""
+		"But keep in mind—these veins aren’t physical, so you can’t mine them manually. Only Drilling Machines can extract resources from them."
+		"How to Set Up a Drilling Machine:"
+		""
+		"-   Place as many Drilling Machines as you want in the chunk where the vein is located."
+		""
+		"-   Provide at least &l32 RPM&r to power them."
+		""
+		"-   Extract resources from the front (the Multiblock IO block) using a Belt and Funnel."
+		""
+		"Once you set it up, your drills will start mining automatically!"
+		""
+		"If you’re unsure how something works, &lhold W while hovering over it&r in your inventory to ponder, &cCreate’s&r built-in guide will show you helpful visuals!"
+	]
+	quest.6AD19FAD2FA62368.quest_subtitle: "Mining time??"
 	quest.6BEE800C351758EA.quest_desc: [
 		"This mod adds Compressed Blocks for many &cCreate&r items, including:"
 		""
@@ -234,6 +312,7 @@
 	task.1861BC89D8E0E1CC.title: "Exploration"
 	task.227AF36DE4B929F2.title: "Processing"
 	task.2A4ECDDACF010CC4.title: "Create: Misc and Things "
+	task.2AAF877785A5BA88.title: "More Info"
 	task.2DCF427770BB4B23.title: "Create: Molten Vents"
 	task.2F2A0AA837200435.title: "Create: Let The Adventure Begin"
 	task.365CA8889B8E8D65.title: "Create Compressed"
@@ -244,5 +323,7 @@
 	task.57BCDD2E83FDD774.title: "Exploration"
 	task.5C8ADC3177DE104D.title: "Map and claims"
 	task.628AF31ECC0293C5.title: "Addons?"
+	task.62C4C7EBA3AC03CA.title: "Relics"
+	task.69B410552A63E49F.title: "Boss "
 	task.6C89F020245761BE.title: "Chipped Automation"
 }

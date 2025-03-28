@@ -1,0 +1,18 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses"
+	group: "364D2F9976D16B07"
+	id: "48D9F3430EF25741"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "22D30045E89D8C1B"
+		tasks: [{
+			id: "69B410552A63E49F"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

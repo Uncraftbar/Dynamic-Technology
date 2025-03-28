@@ -78,23 +78,47 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "a884789292c624db48af6507f33912c9dd3f59e8c8926512efa41cb9366e58cf"
+hash = "581c844eee3f510275316658e39d3f8be1a7d873573bdbc1759484b99375992d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/bosses.snbt"
+hash = "acb12d17f3bfee6be6a0b209e413d595dba3ae753133c549068567102aa3db57"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/introduction.snbt"
 hash = "34fe7f547a53a75dff622ee3e8754d98d8d230e89f36ec7752f5a0a18d608764"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/molten_vents.snbt"
+hash = "a541f0b80ff16cb71e49da5a2c3ec2a521ea04825e38b5977033ac6e11f5eda6"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ore_excavation.snbt"
+hash = "927d6e2ee1c833cd9faa3701a7c40f3aefd4ec2ce045b046a871efa3022d33c4"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/overview.snbt"
-hash = "8fbfdf5d057a009cb0f3895f658e39bc4e496a534cc9b9354b4ca2d19e8747fa"
+hash = "fb7809e67f20deff15789d395d02ab2df99b038525ec304d3e357136e0df1874"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/relics.snbt"
+hash = "bba5e57445d584bb7b85845217763cc0b2c8f1da433f5595b603b55aa837d677"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/storage.snbt"
+hash = "a63be9b55553119cb663eec928072fba81375a1716a06b016109150c3e39f6ec"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/villagers.snbt"
+hash = "ea5d655d2a91a451f6764111b1fdd39e258037f8a1431cc2279a30d33429c3eb"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "6fd6f7a8adf8e6d9fd4d0ef68d1fad516cc1556b0805655a58d925f80c22f670"
+hash = "df5d13377acbf78fa52b03ce24d38265fba56cd6f13bc7d3ae19f055618a57bb"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "456f77d6573b18a040b1dd353c687e614d96167f30bdcc0b04aae97331e25c98"
+hash = "3091f9c7bdf1543d30ec6a8fb41e0bb49c97542eea52157de1b205b9e9a36168"
 
 [[files]]
 file = "kubejs/assets/dynamictechnology/textures/quests/logo.png"
@@ -217,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "fe8b5115a0b4b8b4eb596da39c532d3274b21480abe3d2f40fa723676f0b99f1"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "c5df6a939b23ea1dc348989e5185d7ad7d7e65557531e1a1ec16cb57ab8f9b29"
 metafile = true
 
 [[files]]
@@ -687,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "9dfeb4b87e376aacf809236ade964c2e37943aaff4d7a5774442f7cca52b76de"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
 
 [[files]]

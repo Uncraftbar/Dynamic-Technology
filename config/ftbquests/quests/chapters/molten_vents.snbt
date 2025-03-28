@@ -1,0 +1,25 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "molten_vents"
+	group: "5C16CBEE7193CEB3"
+	icon: {
+		id: "molten_vents:active_molten_crimsite"
+	}
+	id: "1190001CF10C3EC6"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		icon: {
+			id: "molten_vents:active_molten_crimsite"
+		}
+		id: "085B7E8B9E24EF9E"
+		tasks: [{
+			id: "3BE8D0EC79D036B4"
+			item: { count: 1, id: "minecraft:tnt" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

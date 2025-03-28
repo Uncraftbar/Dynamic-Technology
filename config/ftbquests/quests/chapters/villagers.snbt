@@ -1,0 +1,22 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "villagers"
+	group: "5C16CBEE7193CEB3"
+	icon: {
+		id: "trading_floor:trading_depot"
+	}
+	id: "07BD9954D20718BA"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "3EE9C5072DA70F4E"
+		tasks: [{
+			id: "47F238F689B68598"
+			item: { count: 1, id: "trading_floor:trading_depot" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

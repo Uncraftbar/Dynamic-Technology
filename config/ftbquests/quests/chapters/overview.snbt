@@ -301,6 +301,9 @@
 		}
 		{
 			dependencies: ["39A7D98442648596"]
+			icon: {
+				id: "create_compressed:crushed_iron_pile"
+			}
 			id: "6BEE800C351758EA"
 			tasks: [{
 				id: "365CA8889B8E8D65"

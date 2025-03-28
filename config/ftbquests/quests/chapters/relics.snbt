@@ -1,0 +1,61 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "relics"
+	group: "364D2F9976D16B07"
+	icon: {
+		components: {
+			"relics:data": {
+				abilities: {
+					abilities: {
+						explode: {
+							extender: {
+								cooldown: 0
+								cooldownCap: 0
+								ticking: 0b
+							}
+							lock: {
+								breaks: 5
+							}
+							points: 0
+							research: {
+								links: { }
+								researched: 0b
+							}
+							stats: {
+								capacity: {
+									initialValue: 54.5381d
+								}
+								damage: {
+									initialValue: 0.48395d
+								}
+								stun: {
+									initialValue: 0.20699d
+								}
+							}
+						}
+					}
+				}
+				leveling: {
+					experience: 0
+					level: 0
+					luck: 0
+					points: 0
+				}
+			}
+		}
+		id: "relics:reflection_necklace"
+	}
+	id: "4274AA4A13438267"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "3A953DC095919B4C"
+		tasks: [{
+			id: "62C4C7EBA3AC03CA"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}
