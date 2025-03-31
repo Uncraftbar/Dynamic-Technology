@@ -121,12 +121,196 @@ file = "config/ftbquests/quests/lang/en_us.snbt"
 hash = "3091f9c7bdf1543d30ec6a8fb41e0bb49c97542eea52157de1b205b9e9a36168"
 
 [[files]]
+file = "config/sophisticatedstorage-common.toml"
+hash = "0c721ecf8a9a6fba8402b7ce73bf8580acdd078e9ac9c3b37c42245ca6d8c4b0"
+
+[[files]]
 file = "kubejs/assets/dynamictechnology/textures/quests/logo.png"
 hash = "ff7807ba57be9260e426d65c576bbd1153a310f99c5e1504ebf2085a5a7a15d3"
 
 [[files]]
 file = "kubejs/assets/dynamictechnology/textures/quests/questlogo.png"
 hash = "8284e69e0c2c09264c6669513d25174cc323c9e38c9419295677dc1e3f9393e0"
+
+[[files]]
+file = "kubejs/assets/sophisticatedbackpacks/lang/en_us.json"
+hash = "fab2b63f31703b5ee0414e076944167fa8d98c7a8d0abecb16265d7305f37812"
+
+[[files]]
+file = "kubejs/assets/sophisticatedbackpacks/textures/block/diamond_clips.png"
+hash = "aa49e6920b076228aff717d2f25d2d9d4decf03594819ef3531a6be1b614946f"
+
+[[files]]
+file = "kubejs/assets/sophisticatedbackpacks/textures/block/gold_clips.png"
+hash = "185c6c5cac7bf8eaa79dda23537395b5449e7ffc72b79c8c35aec4f8f97e6c14"
+
+[[files]]
+file = "kubejs/assets/sophisticatedbackpacks/textures/block/iron_clips.png"
+hash = "bdc90dcc10bed875816014fdaea8f452d8e430dff2aefafbf7b9dc02f179e5f6"
+
+[[files]]
+file = "kubejs/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_1.png"
+hash = "2dc1b62f530eabc1f19a34802d2dca1866c733c443819b59610e4baa15b4332e"
+
+[[files]]
+file = "kubejs/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_2.png"
+hash = "64f3b3c3adc68c7566512fb305fef0c825e8614944ca571f56e2235089b03743"
+
+[[files]]
+file = "kubejs/assets/sophisticatedbackpacks/textures/item/stack_upgrade_tier_3.png"
+hash = "ffa6e0cb434a892bbc5b93ae1c8c597e0d545dbb61fc53ba9c65ce550c1bbad6"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/lang/en_us.json"
+hash = "117ce6ae24c589d49d87d722000d8b7433de951bdc565662af2e0bc49a0b38e9"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/block/diamond_barrel_bottom.png"
+hash = "c7596eeb4727de8379b81285b56dda00a54849f207e38ea84fc90b4cc6b73ffa"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/block/diamond_barrel_side.png"
+hash = "b55eae48f6723ac545c6f005742c5abfccf2babd9622d735e5e67230b08b23a1"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/block/diamond_barrel_top.png"
+hash = "c7596eeb4727de8379b81285b56dda00a54849f207e38ea84fc90b4cc6b73ffa"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/block/gold_barrel_bottom.png"
+hash = "faf38f18be448f9b5426d7da44be2af93d564c00b375e11e6cc8de867324a0b6"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/block/gold_barrel_side.png"
+hash = "ba7a9c3672e4c16f97ceb756224ec7a8b72bc2f8e1b2347ac8812af0ebf8cc45"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/block/gold_barrel_top.png"
+hash = "faf38f18be448f9b5426d7da44be2af93d564c00b375e11e6cc8de867324a0b6"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/block/iron_barrel_bottom.png"
+hash = "ab63deb2b12dca45cb27c1a841e1d0664fd8da1546688d49c2ff018d4b09efd4"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/block/iron_barrel_side.png"
+hash = "acef1544f61b2da5a02c2ee4062ecf2cec6392fc1fdbce156803e7c6d5c0b5a0"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/block/iron_barrel_top.png"
+hash = "ab63deb2b12dca45cb27c1a841e1d0664fd8da1546688d49c2ff018d4b09efd4"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/chest/diamond_tier.png"
+hash = "4992f748348e59bc577657d767a2dd9f6ea33aa66cda623a7e69916be4a9c5fb"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/chest/gold_tier.png"
+hash = "37aa6b0843a237bfb2f55945d92da1e98be5b80136a28f9929a52730e3d9a368"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/chest/iron_tier.png"
+hash = "fc320c69c2b0eb112c9b9502d249b35fe21303f61154f4777a979cdd88c02e48"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/chest/left_diamond_tier.png"
+hash = "27f0b0e615ffc59d94d66607f1a23452e74b4dbf0892c96de93cf765e2880f42"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/chest/left_gold_tier.png"
+hash = "d217a56984caaf902088b35a3308f204f3aa87bdb1b49244e79f8a3ac43bdf2d"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/chest/left_iron_tier.png"
+hash = "007ab557b7fddc4fb7220142314f07f904a36bffa584fbef6b3e4263c1f5d234"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/chest/right_diamond_tier.png"
+hash = "d0c88693e8e599af5f3ac5e1fb49abfd40df58d2a4302ede2fab76d7f5133bfe"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/chest/right_gold_tier.png"
+hash = "430b2373d00307c72816538d76802dfa34ebf97be4a8857b756877fa9a019b94"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/chest/right_iron_tier.png"
+hash = "b6e9eb30c244f39bd4c66b00189d8315763f260ef993e9161d1e92e6397737d6"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/shulker_box/diamond_tier.png"
+hash = "bc6dfcb81ec277f420b05a10c6deb0b1ad57898483f632a172971f0f2f0eb2fb"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/shulker_box/gold_tier.png"
+hash = "7a42d03317449a709cb7f49f32afeb11c7280bf1371204aa401a263e0885e44f"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/entity/shulker_box/iron_tier.png"
+hash = "9bff4d2231632c56b3001c429eda82b4a4b2cce17726b79bcc0f3a91ab8998a6"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/basic_to_diamond_tier_upgrade.png"
+hash = "804767ec1344c854c0c4aff169426b70c5cf9ae7547b6ff02d9f06c5ad17fc70"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/basic_to_gold_tier_upgrade.png"
+hash = "4273938869b1ca3d605464d954bc397ce8b0c50edbf7da7100a6d73d6c4bd10e"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/basic_to_iron_tier_upgrade.png"
+hash = "42a0645c96209180fa1e24ecc582907021e6d4c960032b64ff2e0d00531d884b"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/copper_to_diamond_tier_upgrade.png"
+hash = "2a2fa37748a0bcc136938e6063550fd01aca4f09a30669863326e68802f210a3"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/copper_to_gold_tier_upgrade.png"
+hash = "812f469fe3c1b65d5b169c8d62ed452ea0d8193b506c21178bba4b143e9c3974"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/copper_to_iron_tier_upgrade.png"
+hash = "83912940bf5978865f0579752acfcbd55251d5d74a1c845af8079bb2b0954ec2"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/diamond_to_netherite_tier_upgrade.png"
+hash = "86d2a5048b8ed444d89ba448cb450d723b1e93e5e62f6d08f64b9bb1ab07d9df"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/gold_to_diamond_tier_upgrade.png"
+hash = "6dfdae33e7544ce976aa14d7282100af5f6e17984d1be8de6b7cfc6954aaca4a"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/gold_to_netherite_tier_upgrade.png"
+hash = "5d40c5c806777a5b3d5f2eaa79cc661f4dafba80d2d45ab84c9bf360d2e99108"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/iron_to_diamond_tier_upgrade.png"
+hash = "1f44c6d2f6805ae375f95b4e9c7b785a1df1b3a2bc61d69bb870a55f36162917"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/iron_to_gold_tier_upgrade.png"
+hash = "3eb803b21049b091f0fdbb53afa44178ea18cd854d68aaecd1af58f0c8933341"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/iron_to_netherite_tier_upgrade.png"
+hash = "2d100a9fb2c3f2d1e194efa6a4d3580ab22d40e9ecaa461b140746cbe45f92d0"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/stack_upgrade_tier_2.png"
+hash = "7825767f57c8065c5f65f9dbf685d41ed9769c914b8b89bf39fa784fd3231497"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/stack_upgrade_tier_3.png"
+hash = "2134c426453c48a8e2ec8c3a8acc01b885040f0e73f7985497e33c985008f2ab"
+
+[[files]]
+file = "kubejs/assets/sophisticatedstorage/textures/item/stack_upgrade_tier_4.png"
+hash = "a6c360f72571913a5c4be6b216ff86e6f283a1f1a1f7042d17e89d4b570b4d01"
+
+[[files]]
+file = "kubejs/server_scripts/Soph_Storage.js"
+hash = "6112cbb7220d54d23b211b3acff1094dd99b4c34db1cc739775ae68cfe0aa528"
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -196,11 +380,6 @@ metafile = true
 [[files]]
 file = "mods/bouncier-beds.pw.toml"
 hash = "b5ea9a685e490cf404c360bec432796edd833e8cd5f57688fbf0e254450261d1"
-metafile = true
-
-[[files]]
-file = "mods/camol.pw.toml"
-hash = "7482d323d565ad7802d818ae9349b6623b99f105ba9811867d4d82dc91b5b9d2"
 metafile = true
 
 [[files]]
@@ -559,11 +738,6 @@ hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
 metafile = true
 
 [[files]]
-file = "mods/jumpy-boats.pw.toml"
-hash = "cfbd559d71ee11e13fc927fe82c75c37e2c198b29fb03825fec737882dead9a2"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "51e8c729a6722d04ff85da2afac2b1c2178587be7713027cbc9cd0c58f668929"
 metafile = true
@@ -776,11 +950,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage-create-integration.pw.toml"
 hash = "afa3042413f4c930325da5f15ed2cc47f14623c1317043f879a9768b2defdaef"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-storage-in-motion.pw.toml"
-hash = "85aa8b68b534bd455a51b354a272bc6dccaedc274983b1d15529d0d5e740d820"
 metafile = true
 
 [[files]]

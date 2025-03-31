@@ -1,0 +1,44 @@
+{
+  "block.sophisticatedstorage.iron_barrel": "%s%sBronze Barrel",
+  "block.sophisticatedstorage.gold_barrel": "%s%sBrass Barrel",
+  "block.sophisticatedstorage.diamond_barrel": "%s%sSteel Barrel",
+
+  "block.sophisticatedstorage.limited_iron_barrel_1": "Limited %s%sBronze Barrel I",
+  "block.sophisticatedstorage.limited_iron_barrel_2": "Limited %s%sBronze Barrel II",
+  "block.sophisticatedstorage.limited_iron_barrel_3": "Limited %s%sBronze Barrel III",
+  "block.sophisticatedstorage.limited_iron_barrel_4": "Limited %s%sBronze Barrel IV",
+  "block.sophisticatedstorage.limited_gold_barrel_1": "Limited %s%sBrass Barrel I",
+  "block.sophisticatedstorage.limited_gold_barrel_2": "Limited %s%sBrass Barrel II",
+  "block.sophisticatedstorage.limited_gold_barrel_3": "Limited %s%sBrass Barrel III",
+  "block.sophisticatedstorage.limited_gold_barrel_4": "Limited %s%sBrass Barrel IV",
+  "block.sophisticatedstorage.limited_diamond_barrel_1": "Limited %s%sSteel Barrel I",
+  "block.sophisticatedstorage.limited_diamond_barrel_2": "Limited %s%sSteel Barrel II",
+  "block.sophisticatedstorage.limited_diamond_barrel_3": "Limited %s%sSteel Barrel III",
+  "block.sophisticatedstorage.limited_diamond_barrel_4": "Limited %s%sSteel Barrel IV",
+
+  "block.sophisticatedstorage.iron_chest": "%s%sBronze Chest",
+  "block.sophisticatedstorage.gold_chest": "%s%sBrass Chest",
+  "block.sophisticatedstorage.diamond_chest": "%s%sSteel Chest",
+
+  "item.sophisticatedstorage.iron_shulker_box": "Bronze Shulker Box",
+  "block.sophisticatedstorage.iron_shulker_box": "Bronze Shulker Box",
+  "item.sophisticatedstorage.gold_shulker_box": "Brass Shulker Box",
+  "block.sophisticatedstorage.gold_shulker_box": "Brass Shulker Box",
+  "item.sophisticatedstorage.diamond_shulker_box": "Steel Shulker Box",
+  "block.sophisticatedstorage.diamond_shulker_box": "Steel Shulker Box",
+
+  "item.sophisticatedstorage.basic_to_iron_tier_upgrade": "Basic to Bronze Tier Upgrade",
+  "item.sophisticatedstorage.basic_to_gold_tier_upgrade": "Basic to Brass Tier Upgrade",
+  "item.sophisticatedstorage.basic_to_diamond_tier_upgrade": "Basic to Steel Tier Upgrade",
+  "item.sophisticatedstorage.basic_to_netherite_tier_upgrade": "Basic to Netherite Tier Upgrade",
+  "item.sophisticatedstorage.copper_to_iron_tier_upgrade": "Copper to Bronze Tier Upgrade",
+  "item.sophisticatedstorage.copper_to_gold_tier_upgrade": "Copper to Brass Tier Upgrade",
+  "item.sophisticatedstorage.copper_to_diamond_tier_upgrade": "Copper to Steel Tier Upgrade",
+  "item.sophisticatedstorage.iron_to_gold_tier_upgrade": "Bronze to Brass Tier Upgrade",
+  "item.sophisticatedstorage.iron_to_diamond_tier_upgrade": "Bronze to Steel Tier Upgrade",
+  "item.sophisticatedstorage.iron_to_netherite_tier_upgrade": "Bronze to Netherite Tier Upgrade",
+  "item.sophisticatedstorage.gold_to_diamond_tier_upgrade": "Brass to Steel Tier Upgrade",
+  "item.sophisticatedstorage.gold_to_netherite_tier_upgrade": "Brass to Netherite Tier Upgrade",
+  "item.sophisticatedstorage.diamond_to_netherite_tier_upgrade": "Steel to Netherite Tier Upgrade"
+  
+}
