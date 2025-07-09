@@ -4,6 +4,7 @@
 # Exclude README
 /README.md
 /.git
+/.github
 /todo
 /generate_mod_list.py
 /mod_list.html

@@ -1,0 +1,28 @@
+name: Update Mod List
+
+on:
+  push:
+    paths:
+      - 'mods/*.pw.toml'
+      - '.github/workflows/update-mod-list.yml'
+  workflow_dispatch:
+
+jobs:
+  generate-mod-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install toml
+      - name: Generate mod list
+        run: python generate_mod_list.py
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update mod_list.md [auto]'
+          file_pattern: mod_list.md
