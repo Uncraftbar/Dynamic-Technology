@@ -121,8 +121,8 @@ file = "config/ftbquests/quests/lang/en_us.snbt"
 hash = "3091f9c7bdf1543d30ec6a8fb41e0bb49c97542eea52157de1b205b9e9a36168"
 
 [[files]]
-file = "config/sophisticatedstorage-common.toml"
-hash = "0c721ecf8a9a6fba8402b7ce73bf8580acdd078e9ac9c3b37c42245ca6d8c4b0"
+file = "crash-2025-07-09_01.57.13-client.txt"
+hash = "34b6cc8834de218ddd5a1602ebd2ce5b62611e86c677c397e46be72135e8fbb9"
 
 [[files]]
 file = "kubejs/assets/dynamictechnology/textures/quests/logo.png"
@@ -433,6 +433,11 @@ hash = "c1adf475a44eabbc58219fb6a5ab3359c1a3edb7c61a8df3160effe4c3f57823"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "e8562dd1a88ce84401100e45dbe9edcb8a04b67922718832acb1d1cc6e759b65"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
 metafile = true
@@ -453,6 +458,11 @@ hash = "a19409ed868a7236f2b11c0c492a92ae54ebd19ea2413a1e4bff2f3e2c1dd578"
 metafile = true
 
 [[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "6934548153dac7f62c12ecbc32e5208db515a5c500760fd39a4667a41b3b321d"
+metafile = true
+
+[[files]]
 file = "mods/create-compressed.pw.toml"
 hash = "f33839cc6e7476f117fee6f062770dc19bbd4be41cb430ffabefa79c4c6bf308"
 metafile = true
@@ -465,6 +475,11 @@ metafile = true
 [[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "dd3ac8991f2af25de63075a7525233dbb520150f9e8fa342ee8fd8f702e0cafa"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "90f38f6a4539b7f69be95865e409157605e7aad6d3a7f673b84f552caec3ccd1"
 metafile = true
 
 [[files]]
@@ -483,6 +498,16 @@ hash = "949b12085efd9512dac41051e0ff1af7723ab03df324019b67fce4bf7833a5d6"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "d225f436d245791b859fba618e997ef5741ef5fc5b7ed4e557b5331d52dcb31d"
+metafile = true
+
+[[files]]
+file = "mods/create-escalated.pw.toml"
+hash = "cde4872a58b202f6773581f2e0de7d3f62850aca7a077adf162a5e25724b55cc"
+metafile = true
+
+[[files]]
 file = "mods/create-extra-casing.pw.toml"
 hash = "884f2fd5f86e62571c20eea8c81ce9492f5e236575546992fc11cb2e72907a85"
 metafile = true
@@ -490,6 +515,11 @@ metafile = true
 [[files]]
 file = "mods/create-framed.pw.toml"
 hash = "f36540c562db0c90bf99f47550d6b07013138a008318b1e74fcdf20885a626d0"
+metafile = true
+
+[[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "e2a194ae67437c92a708f6e548384349f700d5f52249c4f479383cdb3f10b8a4"
 metafile = true
 
 [[files]]
@@ -503,8 +533,18 @@ hash = "ea841c7054f982203e11f240af1e581836b6fdbfabf26b16e8b4c973abef002e"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-botany.pw.toml"
+hash = "a176574eb770781ee337ecd2363f23d91655a4235916dc8f18e2642c2c583141"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "785e070696bd8aa550d0bb2fab16144b48670cc65a78dbedd7ab32a41f05e6b7"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "f66c1e01cf2865fed8d416e567b88a5c908194c02e5a781bf33121645f7134f8"
 metafile = true
 
 [[files]]
@@ -513,8 +553,18 @@ hash = "78aad9b2a50a79d81ff116a7566e9e68cf04bbad17427130b85e012b85bcc4f0"
 metafile = true
 
 [[files]]
+file = "mods/create-more-linked-remote.pw.toml"
+hash = "3a15fc4ef55e39b78885ce32d4973645174f95ac8b8da34cdd1f9a4d8078cd45"
+metafile = true
+
+[[files]]
 file = "mods/create-more-sand-papers.pw.toml"
 hash = "8e4a24ef57be600a6f0db21b27048d3101fe0b7afb27dfa45ae11e3695159391"
+metafile = true
+
+[[files]]
+file = "mods/create-new-furnitures.pw.toml"
+hash = "a6ee1697ee2f3a890c04c30a141de645b2903c164eb0e1ccd2a61a22bd2e9a3e"
 metafile = true
 
 [[files]]
@@ -533,6 +583,11 @@ hash = "d80276270bb3d7bf9ce1efeeff47eb9a76e5de10b87dd9df885a777c67e3c327"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "829aac6bbce902b82c501991ecfa7bdb36652104a6c34d00bbc77c4dcca3d771"
 metafile = true
@@ -545,6 +600,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "cde09b142a7998957dcf3d1effec07b9563c520e168fc1f63e7750fb7e6f80bb"
 metafile = true
 
 [[files]]
@@ -588,6 +648,11 @@ hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "b62d5dc22f75254a4033337238df41b6ef638e6a0a4cbb0a919fa9f87d2acf9a"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "9237b88b063c87c5f4b5a79c5ff8a7c287537f3deabe04027efee8298ac380dd"
 metafile = true
@@ -623,6 +688,11 @@ hash = "69b6a7d4d77c7ea9a476891a9a159a6b8d5901c3e860583a1cb88526f3aea06d"
 metafile = true
 
 [[files]]
+file = "mods/extended-wrenches.pw.toml"
+hash = "a6c8db541d206c7e2990c076c66e9c3c32616c7e2aa0c4785089b28c913c21fd"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "1e55e6873a5a1dcf5a326e409c2cc856ffbc950183fe61f96e76e778e1cbe4a3"
 metafile = true
@@ -640,6 +710,11 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "491d00e39031e0dd48570c29d8bac4b883c811f1874888e6fe7fa1c67c33c469"
+metafile = true
+
+[[files]]
+file = "mods/fishing-bobber-detector.pw.toml"
+hash = "076fa5496f2a724cfec0edaaabe02f7f2564be24a0368522846dfa130c442ff5"
 metafile = true
 
 [[files]]
@@ -720,6 +795,11 @@ metafile = true
 [[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "29abe36be13fe414e13125140f1c4fe373f7daf79a11ba511e0f77a47ea7f946"
+metafile = true
+
+[[files]]
+file = "mods/hypertubes.pw.toml"
+hash = "e39be27a29b75b1a59cf80698142056126d169b8d0d8c7cc369403ba2990286c"
 metafile = true
 
 [[files]]
@@ -905,6 +985,11 @@ metafile = true
 [[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "04bd0d7668e9a435a0ca553ad247636d74f3641a7542a170de6111cea852dea6"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "0218c576d635d5d514f96f981f627932e752de48ef794e6817da1872e92eead0"
 metafile = true
 
 [[files]]
@@ -1101,3 +1186,7 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "0ecc8df3b8cc35aaae4ea7757417a8050e99657e683e7b7e05410aeedfc28d0b"
 metafile = true
+
+[[files]]
+file = "todo"
+hash = "56758db2c609161bcedb0159d9278c10e678a30f744fdf77f59a12bf4c021575"
