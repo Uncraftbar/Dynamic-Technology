@@ -16,14 +16,20 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+      - name: List files before
+        run: ls -lR
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
       - name: Install dependencies
         run: pip install toml
-      - name: Generate mod list
+      - name: Run mod list script
         run: python generate_mod_list.py
+      - name: List files after
+        run: ls -lR
+      - name: Show mod_list.md contents
+        run: cat mod_list.md || echo 'mod_list.md not found'
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
