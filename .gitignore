@@ -4,4 +4,4 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
-*.html
+mod_list.md
