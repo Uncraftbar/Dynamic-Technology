@@ -1,0 +1,184 @@
+# Minecraft Mod List
+
+- [EMF] Entity Model Features [Fabric & Forge]
+- [ETF] Entity Texture Features - [Fabric & Forge]
+- AllTheLeaks (Memory Leak Fix)
+- Apothic Attributes
+- AppleSkin
+- Architectury API
+- Artifacts
+- Athena
+- Bad Wither No Cookie - Reloaded
+- Balm
+- Better Advancements
+- Better Archeology
+- Biomes O' Plenty
+- Bookshelf
+- Bouncier Beds
+- Catalogue
+- Charm of Undying (Fabric/Forge/Quilt)
+- Chipped
+- Chipped Express
+- Cloth Config API (Fabric/Forge/NeoForge)
+- CodeChicken Lib 1.8.+
+- Collective
+- Colorful Hearts
+- Comforts (Fabric/Forge/Quilt)
+- Controlling
+- Cooking for Blockheads
+- CoroUtil
+- Cosmetic Armor Reworked
+- Crafting on a stick
+- Create
+- Create : Misc & Things [update 6 ✓]
+- Create : New Furnitures
+- Create Compressed
+- Create Contraption Terminals
+- Create Crafts & Additions
+- Create More: Linked Remote
+- Create Ore Excavation
+- Create Slice & Dice
+- Create: Bells & Whistles
+- Create: Better Villager
+- Create: Bitterballen
+- Create: Copycats+
+- Create: Curios Jetpack & Backtank [Forge/Fabric/NeoForge]
+- Create: Dragons Plus
+- Create: Dreams n' Desires
+- Create: Easy Structures
+- Create: Enchantable Machinery
+- Create: Enchantment Industry
+- Create: Escalated
+- Create: Extended Wrenches
+- Create: Extra Casing
+- Create: Fishing Bobber Detector | Automatic Fishing with Create
+- Create: Framed
+- Create: Garnished
+- Create: Hypertubes
+- Create: Integrated Farming
+- Create: Ironworks [Forge/Fabric/NeoForge]
+- Create: Let The Adventure Begin
+- Create: Mechanical Botany
+- Create: Mobile Packages
+- Create: Molten Vents
+- Create: More Sand Papers
+- Create: Oxidized
+- Create: Pattern Schematics
+- Create: Power Loader
+- Create: Trading Floor
+- Create: Winery [Forge/NeoForge]
+- Creeper Overhaul
+- Cristel Lib
+- Curios API (Forge/NeoForge)
+- Default Options
+- Dis-Enchanting Table
+- Drippy Loading Screen
+- Dungeon Crawl
+- EMI
+- EMI Enchanting
+- EMI Extra Integrations
+- EMI Ores
+- EMI: Create Schematics
+- Enchantment Descriptions
+- Ender Storage 1.8.+
+- Euphoria Patches
+- Explorer's Compass
+- FancyMenu
+- Farmer's Delight
+- FindMe
+- ForgeEndertech
+- FramedBlocks
+- Framework
+- FTB Chunks (Forge)
+- FTB Essentials (Forge & Fabric)
+- FTB Filter System
+- FTB Library (Forge)
+- FTB Quests (Forge)
+- FTB Ranks (Forge)
+- FTB Teams (Forge)
+- FTB Ultimine (Forge)
+- FTB XMod Compat
+- Fusion (Connected Textures)
+- GeckoLib
+- GlitchCore
+- Goblin Traders
+- Iris Shaders
+- Jade 🔍
+- Just Enough Items (JEI)
+- Konkrete [Forge/NeoForge]
+- Kotlin for Forge
+- KubeJS
+- Large Ore Deposits
+- Leaves Be Gone [Forge & Fabric]
+- Lighty
+- Lithium (Fabric/NeoForge)
+- Lootr (Forge & NeoForge)
+- Luminax
+- Magnum Torch
+- Melody
+- MonoLib
+- Mouse Tweaks
+- MrCrayfish's Furniture Mod: Refurbished
+- Nature's Compass
+- Neruina - Ticking Entity Fixer
+- OctoLib
+- Patchouli
+- Placebo
+- Polymorph (Fabric/Forge/Quilt)
+- Prickle
+- Puzzles Lib [Forge & Fabric]
+- Rechiseled
+- Rechiseled: Chipped
+- Reese's Sodium Options
+- Relics
+- Relics of Rain
+- Relics: Artifacts Compat
+- Reliquary Reincarnations
+- Repurposed Structures (Neoforge/Forge)
+- Resourceful Config
+- Resourceful Lib
+- Rhino
+- Searchables
+- Showcase Item
+- Simple Magnets
+- Small Ships [Fabric & Forge]
+- Smithing Template Viewer for JEI/EMI
+- Sodium
+- Sodium Extra
+- Sodium/Embeddium Dynamic Lights
+- Sodium/Embeddium Extras
+- Sodium/Embeddium Options API
+- Sodium/Embeddium Options Mod Compat
+- Sophisticated Backpacks
+- Sophisticated Core
+- Sophisticated Storage
+- Sophisticated Storage Create Integration
+- Spice of Life: Carrot Edition
+- SuperMartijn642's Config Lib
+- SuperMartijn642's Core Lib
+- Sushi Go Crafting
+- TerraBlender (NeoForge)
+- Terralith
+- Titanium
+- Tom's Simple Storage Mod
+- Towns and Towers
+- Transmog
+- Trash Cans
+- TrashSlot
+- Waystones
+- WITS (What Is This Structure?)
+- Wormhole (Portals)
+- Xaero's Minimap
+- Xaero's World Map
+- XaeroPlus
+- You're in Grave Danger
+- YUNG's API (NeoForge)
+- YUNG's Better Dungeons (NeoForge)
+- YUNG's Better End Island (NeoForge)
+- YUNG's Better Jungle Temples (NeoForge)
+- YUNG's Better Mineshafts (NeoForge)
+- YUNG's Better Nether Fortresses (NeoForge)
+- YUNG's Better Ocean Monuments (NeoForge)
+- YUNG's Better Strongholds (NeoForge)
+- YUNG's Better Witch Huts (NeoForge)
+- YUNG's Extras (NeoForge)
