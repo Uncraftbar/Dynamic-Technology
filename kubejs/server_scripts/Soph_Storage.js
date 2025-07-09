@@ -17,7 +17,7 @@ ServerEvents.recipes(event => {
             "neoforge:conditions": [
               {
                 "type": "sophisticatedcore:item_enabled",
-                "itemRegistryName": "outputBackpack"
+                "itemRegistryName": outputBackpack
               }
             ],
             "type": "sophisticatedbackpacks:backpack_upgrade",
@@ -152,7 +152,7 @@ ServerEvents.recipes(event => {
     copper("sophisticatedbackpacks:iron_backpack", "sophisticatedbackpacks:backpack_upgrade", "sophisticatedbackpacks:copper_backpack")
     copper("sophisticatedstorage:iron_barrel", "sophisticatedstorage:storage_tier_upgrade", "sophisticatedstorage:copper_barrel")
     copper("sophisticatedstorage:iron_chest", "sophisticatedstorage:storage_tier_upgrade", "sophisticatedstorage:copper_chest")
-    copper("sophisticatedstorage:iron_shulker", "sophisticatedstorage:storage_tier_upgrade", "sophisticatedstorage:copper_shulker")
+    copper("sophisticatedstorage:iron_shulker_box", "sophisticatedstorage:storage_tier_upgrade", "sophisticatedstorage:copper_shulker_box")
     copper("sophisticatedstorage:limited_iron_barrel_1", "sophisticatedstorage:storage_tier_upgrade", "sophisticatedstorage:limited_copper_barrel_1")
     copper("sophisticatedstorage:limited_iron_barrel_2", "sophisticatedstorage:storage_tier_upgrade", "sophisticatedstorage:limited_copper_barrel_2")
     copper("sophisticatedstorage:limited_iron_barrel_3", "sophisticatedstorage:storage_tier_upgrade", "sophisticatedstorage:limited_copper_barrel_3")
