@@ -306,7 +306,7 @@ hash = "a6c360f72571913a5c4be6b216ff86e6f283a1f1a1f7042d17e89d4b570b4d01"
 
 [[files]]
 file = "kubejs/server_scripts/Soph_Storage.js"
-hash = "6112cbb7220d54d23b211b3acff1094dd99b4c34db1cc739775ae68cfe0aa528"
+hash = "e9ef7449db26ec08f71dfd9419cebc67db5d919d19b20a0f29cba93a251a7aa5"
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -1222,7 +1222,3 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "0ecc8df3b8cc35aaae4ea7757417a8050e99657e683e7b7e05410aeedfc28d0b"
 metafile = true
-
-[[files]]
-file = "todo"
-hash = "706fd94d231e96a40dc7cf994dd77335c6d8c28649ce69978937cbfd8d2e3286"
