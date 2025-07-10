@@ -85,6 +85,10 @@ file = "config/ftbquests/quests/chapters/bosses.snbt"
 hash = "acb12d17f3bfee6be6a0b209e413d595dba3ae753133c549068567102aa3db57"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/create_basics.snbt"
+hash = "a0d56261e0759bba48cca07889760ac7a12e5dc7c372fbeed86e9b56b48441a1"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/introduction.snbt"
 hash = "34fe7f547a53a75dff622ee3e8754d98d8d230e89f36ec7752f5a0a18d608764"
 
@@ -98,7 +102,7 @@ hash = "927d6e2ee1c833cd9faa3701a7c40f3aefd4ec2ce045b046a871efa3022d33c4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/overview.snbt"
-hash = "fb7809e67f20deff15789d395d02ab2df99b038525ec304d3e357136e0df1874"
+hash = "c405b80422a7e4d3b5506a2b2537526132220d82cfa262a33b40f630e194394c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/relics.snbt"
@@ -114,11 +118,11 @@ hash = "ea5d655d2a91a451f6764111b1fdd39e258037f8a1431cc2279a30d33429c3eb"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "df5d13377acbf78fa52b03ce24d38265fba56cd6f13bc7d3ae19f055618a57bb"
+hash = "f8fcaba9b0e5682a1ab221ef0bf332d3ba60d60229077bef1b5c8551e0ef70eb"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "3091f9c7bdf1543d30ec6a8fb41e0bb49c97542eea52157de1b205b9e9a36168"
+hash = "e3ab6183f161f6ef381da77120be91bb0ac19e9766a6270f353e97e596287540"
 
 [[files]]
 file = "kubejs/assets/dynamictechnology/textures/quests/logo.png"

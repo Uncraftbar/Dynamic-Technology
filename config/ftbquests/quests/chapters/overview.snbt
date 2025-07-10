@@ -144,12 +144,12 @@
 		{
 			dependencies: ["54AEC63F19B07637"]
 			icon: {
-				id: "creategarnished:peanut"
+				id: "garnished:peanut"
 			}
 			id: "382A8E7CC3AB4DB1"
 			tasks: [{
 				id: "5226C32430102ED2"
-				item: { count: 1, id: "creategarnished:peanut" }
+				item: { components: { "ftbquests:missing_item": "creategarnished:peanut" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 4.5d

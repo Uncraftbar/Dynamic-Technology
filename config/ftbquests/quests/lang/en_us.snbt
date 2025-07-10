@@ -2,6 +2,7 @@
 	chapter.018E8A0A14580EE1.title: "Ore Excavation"
 	chapter.07BD9954D20718BA.title: "Villagers"
 	chapter.1190001CF10C3EC6.title: "Molten Vents"
+	chapter.3294625A9863F40D.title: "Create Basics"
 	chapter.371EC80AA59E49FB.title: "Overview"
 	chapter.3B5287034ED08D40.title: "Introduction"
 	chapter.4274AA4A13438267.title: "Relics"
@@ -33,6 +34,27 @@
 	]
 	quest.1217969946E7CEE9.quest_subtitle: "Thanks for downloading :D"
 	quest.1217969946E7CEE9.title: "Welcome!"
+	quest.17A43F2121F17A03.quest_desc: [
+		"Welcome to the &lCreate Basics&r chapter!"
+		""
+		"This is where your journey with &cCreate&r truly begins. Whether you’re brand new or just need a refresher, this chapter will guide you through the &lcore mechanics&r of the mod."
+		""
+		"You’ll learn how to generate, transmit, and use &brotational power&r, and get hands-on with the most important machines."
+		""
+		"Ready to get started? Let’s turn some gears!"
+	]
+	quest.18AB67397011C161.quest_desc: [
+		"Now that you have power, it’s time to move it around! &lShafts&r, &lGearboxes&r, and &lBelts&r are the backbone of any Create factory, letting you transmit power across distances and around corners."
+		""
+		"- &lShafts&r: Transmit power in a straight line."
+		""
+		"- &lGearboxes&r: Change the direction of power (right angles, up/down, etc.)."
+		""
+		"- &lBelts&r: Move power (and items!) between machines, even over gaps."
+		""
+		"&nTip:&r Use these components to keep your factory tidy and efficient. Try experimenting with different layouts to see what works best for your builds!"
+	]
+	quest.18AB67397011C161.title: "Gearing Up – Shafts, Gearboxes, and Belts"
 	quest.19C2EC5D48E8D1AF.quest_desc: [
 		"There are plenty of extra recipes to help you get &ldecorative blocks&r more &oeasily&r."
 		""
@@ -77,6 +99,41 @@
 		"With this mod, you can even use the Schematic Cannon on Trains. Want to build a detailed wall along your train tracks? No problem with this mod!"
 	]
 	quest.1D9107944155C7F4.quest_subtitle: "Because building by hand is lame"
+	quest.1DAFCB9949FF9FC3.quest_desc: [
+		"To make real progress in Create, you’ll need to process materials into new forms. The &lMechanical Press&r is your first step into automation, it can press ingots into sheets!"
+		""
+		"Set it up with a &lDepot&r or &lBasin&r underneath, and power it with your new generators. You’ll need pressed plates for many advanced recipes, including &lPrecision Mechanisms&r later on."
+		""
+		"&nChallenge:&r Try automating the press with a &lBelt&r for hands-free production!"
+	]
+	quest.1DAFCB9949FF9FC3.title: "Pressing Matters – The Mechanical Press"
+	quest.26E3D99B797568FE.quest_desc: [
+		"Every great machine starts with the basics! &lAndesite Alloy&r is the foundation of almost every Create contraption."
+		""
+		"To get started, you’ll need to craft &l64 Andesite Alloy&r. (You already received 16 as a reward from the previous quest, so you’ll have a head start!)"
+		""
+		"It’s made by combining &7Andesite&r with &7Iron Nuggets&r or &7Zinc Nuggets&r."
+		""
+		"Tip: &nYou’ll use a LOT of this stuff!&r"
+	]
+	quest.26E3D99B797568FE.title: "Getting Started – Andesite Alloy"
+	quest.2A10E280BC0AE75C.quest_desc: [
+		"&lSU&r stands for &oStress Units&r, the core measurement of power in Create. Every generator produces SU, and every machine or component consumes it."
+		""
+		"&nKey Points:&r"
+		"- &lGenerators&r (like Water Wheels and Windmills) produce SU."
+		""
+		"- &lMachines&r (like Mechanical Presses, Mixers, etc.) consume SU based on the &lspeed&r they’re running at—the faster, the more SU required!"
+		""
+		"- Some machines have a &lminimum required speed&r (and therefore SU) to operate at all."
+		""
+		"- If you try to run more machines than your generators can handle, your system will &cjam&r!"
+		""
+		"- You can see how much SU something produces or consumes by looking at it with &lGoggles&r equipped."
+		""
+		"&nTip:&r Plan your factory so you always have enough SU for your machines. Upgrade your power sources as you expand! You have many options in this Modpack."
+	]
+	quest.2A10E280BC0AE75C.title: "What is SU? – Understanding Stress Units"
 	quest.2AFCBD4076F97154.quest_desc: [
 		"Yep, you read that right, Enchantable Create blocks!"
 		""
@@ -85,6 +142,19 @@
 		"There’s a ton of blocks supported, so feel free to experiment and see what works!"
 	]
 	quest.2AFCBD4076F97154.quest_subtitle: "this might be OP..."
+	quest.2D0AE32D1FA8173A.quest_desc: [
+		"Automation isn’t just about power, it’s about moving items, too! &lBelts&r, &lFunnels&r, and &lChutes&r are the backbone of Create’s item transport system, letting you move resources between machines, chests, and more."
+		""
+		"- &lBelts&r: Move items smoothly between machines, over gaps, and even up or down slopes."
+		""
+		"- &lFunnels&r: Attach to belts, chests, or machines to control item input and output. Right-click with a wrench to toggle between input and output modes!"
+		""
+		"- &lChutes&r: Move items vertically, perfect for dropping items down to lower levels or feeding machines from above. Chutes are gravity-powered and don’t need any SU!"
+		""
+		"&nTip:&r Use &lBrass Funnels&r and &lSmart Chutes&r later on for advanced filtering and to move full stacks at once. "
+		"Try combining belts, funnels, and chutes to fully automate your presses, mixers, and more!"
+	]
+	quest.2D0AE32D1FA8173A.title: "Moving Items – Belts, Funnels, and Chutes"
 	quest.325980044CDF55CC.quest_desc: [
 		"The claim mod in this pack is &lFTB Claims&r."
 		""
@@ -209,6 +279,19 @@
 	]
 	quest.56EF897EADC9ED96.quest_subtitle: "Its in the name"
 	quest.56EF897EADC9ED96.title: "Create: Misc and Things "
+	quest.58A5BC8D670F41DE.quest_desc: [
+		"To unlock advanced machinery in Create, you’ll need &lBrass&r, and that means working with &lBlaze Burners&r!"
+		""
+		"- &lBrass&r is made by mixing &oCopper&r and &oZinc&r in a Basin, but you’ll need a Blaze Burner underneath the Basin to heat things up."
+		""
+		"- &lBlaze Burners&r are crafted by capturing a Blaze with an Empty Blaze Burner in the Nether. Find a Blaze and right click it with the Empty Blaze Burner."
+		""
+		"- To activate a Blaze Burner, &nright-click it with something burnable&r (like coal or wood)—it will stay lit for a limited time."
+		""
+		"- &lSuperheated&r Blaze Burners (feed them Blaze Cakes) are needed for some of the most advanced recipes."
+		""
+		"&nTip:&r Brass unlocks a whole new tier of machines, including the Mechanical Crafter and Precision Mechanisms, but also advanced versions of a lot of things you already used, such as Funnels and Chutes"
+	]
 	quest.5A0268EED620FE84.quest_desc: [
 		"&cCreate&r’s Framed Glass, but in more &4c&r&co&r&6l&r&eo&r&ar&r&2s&r!"
 		""
@@ -216,6 +299,24 @@
 	]
 	quest.5A0268EED620FE84.quest_subtitle: "More glass!"
 	quest.5A0268EED620FE84.title: "Create: Framed"
+	quest.5BFB3B66E68AC26A.quest_desc: [
+		"Some recipes require more than just pressing! The &lMechanical Mixer&r lets you combine ingredients in a &lBasin&r to create alloys and other advanced materials."
+		""
+		"&nNote:&r The Mechanical Mixer requires a &lminimum speed&r to operate (at least &l30 RPM&r). If it’s not spinning fast enough, it won’t work!"
+		""
+		"&nTip:&r You can reach the required speed by using a &lLarge Cogwheel&r and a &lSmall Cogwheel&r to increase speed. Experiment with your setup to get the Mixer spinning!"
+		""
+		"Set up your Mixer above a Basin, power it, and try mixing different ingredients. Many Create recipes (like Brass Ingots) require this machine!"
+		""
+		"You can automate the Mixer with funnels and belts for continuous production."
+	]
+	quest.5BFB3B66E68AC26A.title: "Mixing Things Up – The Mechanical Mixer"
+	quest.5ECE45F6EA6CD5DE.quest_desc: [
+		"Now that you have some &lrotational power&r, it’s time to transmit it! &lCogwheels&r are the heart of every Create contraption, letting you transfer and redirect power in creative ways."
+		""
+		"Try placing cogwheels in different arrangements to see how they interact. Large and small cogwheels can change speed and direction."
+	]
+	quest.5ECE45F6EA6CD5DE.title: "Cogs in Motion – Your First Cogwheel"
 	quest.5F1C6682A441B24F.quest_desc: ["Simply adds more structures!"]
 	quest.5F1C6682A441B24F.quest_subtitle: "LOOT!"
 	quest.5F1C6682A441B24F.title: "Create: Easy Structures"
@@ -235,6 +336,19 @@
 		"For more details, head over to its chapter!"
 	]
 	quest.620CEA274EF57F72.quest_subtitle: "Infinite ores :O"
+	quest.664A36E69A5D6F43.quest_desc: [
+		"Ready to harness the wind? The &lWindmill Bearing&r lets you build massive spinning sails for &opassive power generation&r!"
+		""
+		"&nHow it works:&r"
+		"- You need at least &l8 sail blocks&r (wool or windmill sails) attached to your windmill to start generating power—this gives you &l512su&r."
+		""
+		"- &lAll wool blocks&r count as sail blocks, but the &owindmill sail item&r is more cost effective for large windmills."
+		""
+		"- The maximum number of sail blocks that will increase output is &l128&r, generating up to &l8192su&r."
+		""
+		"- Adding more than 128 sail blocks won’t increase power further, but it can look cool!"
+	]
+	quest.664A36E69A5D6F43.title: "Turning Up the Power – Windmill Bearing"
 	quest.6AD19FAD2FA62368.quest_desc: [
 		"Found a vein of a resource you want? Great!"
 		""
@@ -274,6 +388,16 @@
 		"This means you can now automate them using the &lsaw&r. Just make sure to set a &ofilter&r on the saw first."
 	]
 	quest.7008E371E19296F9.quest_subtitle: "Wait, this isnt a Create addon?!"
+	quest.72A7C9387865CE02.quest_desc: [
+		"Manual power is great, but it’s time to automate! The &lWater Wheel&r is your first &opassive power source&r in Create. Just add flowing water, and it’ll spin forever—no more cranking by hand!"
+		""
+		"&nTip:&r The amount of water flowing around the Water Wheel &ldoesn’t matter&r—the power output always stays the same, as long as the water is flowing in the right direction."
+		""
+		"&nNote:&r &lLarge Water Wheels&r generate more power overall, but they spin slower than regular Water Wheels. Choose the right size for your contraption’s needs!"
+		""
+		"Try experimenting with different water setups to maximize your space and aesthetics. Water Wheels are reliable, simple, and a staple of early Create builds."
+	]
+	quest.72A7C9387865CE02.title: "Go with the Flow – Water Wheel Power"
 	quest.75289F9784F97192.quest_desc: ["Simply adds even more structures!"]
 	quest.75289F9784F97192.quest_subtitle: "MORE LOOT!"
 	quest.76B86A45329698EA.quest_desc: [
@@ -300,6 +424,12 @@
 	]
 	quest.7BD49056E530B95E.quest_subtitle: "Searching through chests sucks"
 	quest.7BD49056E530B95E.title: "Create Contraption Terminals"
+	quest.7C00F14822CC4592.quest_desc: [
+		"Before you build big machines, you’ll need a simple way to get things moving. The &lHand Crank&r is your first source of &brotational power&r, just turn it by hand to power basic machines!"
+		""
+		"This is perfect for early-game setups and testing contraptions before you invest in more advanced generators."
+	]
+	quest.7C00F14822CC4592.title: "Getting a Handle on Power – The Hand Crank"
 	task.00318849FB311085.title: "Create: Ore Excavation"
 	task.00D99F46A981DF16.title: "Misc."
 	task.05AF6A22E9EE9D31.title: "Sophisticated Storage Create Integration"
@@ -326,4 +456,5 @@
 	task.62C4C7EBA3AC03CA.title: "Relics"
 	task.69B410552A63E49F.title: "Boss "
 	task.6C89F020245761BE.title: "Chipped Automation"
+	task.6CB5644B85C55D37.title: "Welcome to Create!"
 }
