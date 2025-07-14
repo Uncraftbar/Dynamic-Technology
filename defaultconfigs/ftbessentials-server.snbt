@@ -1,0 +1,66 @@
+{
+	# Miscellaneous features and utilities
+	misc: {
+
+		nick: {
+			enabled: false
+		}
+		
+	}
+	
+	# Teleportation-related settings
+	teleportation: {
+		admins_exempt_dimension_blacklists: true
+		
+		# Allows users to return to their previous location after teleporting (or dying)
+		back: {
+			cooldown: 5
+			
+			enabled: true
+			
+			max: 10
+			
+			only_on_death: false
+
+			warmup: 0
+		}
+		
+		# Allows users to set 'homes', which they can then freely teleport to by using /home afterwards
+		home: {
+			cooldown: 0
+			
+			enabled: true
+			
+			home_min_y: -2147483648
+			
+			max: 10
+			
+			warmup: 0
+		}
+		
+		
+		rtp: {
+			allow_custom_max_distance: false
+
+			allow_custom_min_max_distance: false
+			
+			cooldown: 300
+			
+			dimension_blacklist: []
+			
+			dimension_whitelist: [ ]
+
+			enabled: true
+
+			max_distance: 25000
+			
+
+			max_tries: 100
+			
+			min_distance: 5000
+			
+			warmup: 0
+		}
+
+	}
+}

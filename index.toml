@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "3b471feb0c1e2def0c03e56837d107f356bdc5265f2ee4e2b52e5d4e475a8747"
+
+[[files]]
+file = "config/create_better_villagers/common.json5"
+hash = "b14698c4ad65e43d6bd95481cd7a72c64e5d489849523e9daa148f1390aae9ee"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "9398487eb1ddd1183229b65e182fd10de6f5d1d67cf8b6392771ab1f1b71802e"
 
@@ -123,6 +131,10 @@ hash = "f8fcaba9b0e5682a1ab221ef0bf332d3ba60d60229077bef1b5c8551e0ef70eb"
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
 hash = "e3ab6183f161f6ef381da77120be91bb0ac19e9766a6270f353e97e596287540"
+
+[[files]]
+file = "defaultconfigs/ftbessentials-server.snbt"
+hash = "27d5215890e7946f1e6a9c94ca8c602424ac41ebbb4e4b16fb3072e4e2cd4d7f"
 
 [[files]]
 file = "kubejs/assets/dynamictechnology/textures/quests/logo.png"
@@ -313,6 +325,16 @@ file = "kubejs/server_scripts/Soph_Storage.js"
 hash = "e9ef7449db26ec08f71dfd9419cebc67db5d919d19b20a0f29cba93a251a7aa5"
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "c923f6539fabaadf6234b8346111069baa53fcc95d2445a7eebc50cb3751c25d"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "a22924595e7484b4712b328c06da985bf32f1f0e0ff607a907f7a38d36d0ec22"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "a6ebfd6216892d39e9ea0bcb3e232ca433f9ec614594757cd0d33044b58b2429"
 metafile = true
@@ -400,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "7fae1900c2960eba037ae1830977b9418f791714e0d723d85653334f447296c9"
 metafile = true
 
 [[files]]
@@ -623,11 +650,6 @@ hash = "3dff3027280345cc6f6e2626a8d3b476896ef4c2b1cf6ab72291fe347447f71b"
 metafile = true
 
 [[files]]
-file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "470b0d6784bece922b1664b34eb022cdcfdffb6c36247389eb32a8154d20057f"
 metafile = true
@@ -833,6 +855,11 @@ hash = "609ef5b1508d581a70d521234571c160c987354dfbb0d7e9cb3be7e18e5494b8"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "888492de9de2384ae9b0b427624be6b004bc5882176d2c71d05d948d06cdb826"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "85a2a7d20c6e6bba9f2dceb2673e5ca772c914f6fd98574f74bb9873576a83eb"
 metafile = true
@@ -860,6 +887,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "0070d40d56a423665b251572f1af7ba375fcd3101ca01592ee7447535a29f08a"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "c016fe6af641627890403229e7062b51d24f09be33f1e732abde376afc1a80f1"
 metafile = true
 
 [[files]]
@@ -920,6 +952,16 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "d9401738f5964a2c97898c834ebfe0578a0a69066a70363aed80747405e8bc5e"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "57d4e6f8ffc6c33a1501e6aedd458094ea9e1db530a27a28bcf5bcfb37efdd82"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "74c69f8c8f04009f6af96905022321b7ea07cf760d6e31bc9b8de42f1c298e2f"
 metafile = true
 
 [[files]]
@@ -1005,6 +1047,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "9dfeb4b87e376aacf809236ade964c2e37943aaff4d7a5774442f7cca52b76de"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "71c69a20c6325a3b41de44f5963e5d74afed3bc9d86eb29c5fd0352c72db38cd"
 metafile = true
 
 [[files]]

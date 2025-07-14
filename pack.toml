@@ -1,12 +1,12 @@
 name = "Dynamic Technology"
 author = "Uncraftbar"
-version = "1.0.0"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4b36a0b9877d3176b7f22be4af8d1960166ef3d6ac5ca889b216a6ffd4f46897"
+hash = "17114276d71c0f4b818333a3736a16df1ed2a0d15a51eadad01cba268055c689"
 
 [versions]
 minecraft = "1.21.1"
