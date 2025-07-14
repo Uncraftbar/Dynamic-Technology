@@ -2,6 +2,7 @@
 
 - [EMF] Entity Model Features [Fabric & Forge]
 - [ETF] Entity Texture Features - [Fabric & Forge]
+- Accessories
 - AllTheLeaks (Memory Leak Fix)
 - Apothic Attributes
 - AppleSkin
@@ -19,6 +20,7 @@
 - Charm of Undying (Fabric/Forge/Quilt)
 - Chipped
 - Chipped Express
+- Client Sort
 - Cloth Config API (Fabric/Forge/NeoForge)
 - CodeChicken Lib 1.8.+
 - Collective
@@ -69,7 +71,7 @@
 - Create: Winery [Forge/NeoForge]
 - Creeper Overhaul
 - Cristel Lib
-- Curios API (Forge/NeoForge)
+- Curios Compat Layer for Accessories
 - Default Options
 - Dis-Enchanting Table
 - Drippy Loading Screen
@@ -104,12 +106,14 @@
 - Goblin Traders
 - Iris Shaders
 - Jade 🔍
+- JamLib
 - Just Enough Items (JEI)
 - Konkrete [Forge/NeoForge]
 - Kotlin for Forge
 - KubeJS
 - Large Ore Deposits
 - Leaves Be Gone [Forge & Fabric]
+- libIPN
 - Lighty
 - Lithium (Fabric/NeoForge)
 - Lootr (Forge & NeoForge)
@@ -122,6 +126,8 @@
 - Nature's Compass
 - Neruina - Ticking Entity Fixer
 - OctoLib
+- Ok Zoomer - It's Zoom!
+- oωo (owo-lib)
 - Patchouli
 - Placebo
 - Polymorph (Fabric/Forge/Quilt)
@@ -138,6 +144,7 @@
 - Resourceful Config
 - Resourceful Lib
 - Rhino
+- RightClickHarvest
 - Searchables
 - Showcase Item
 - Simple Magnets
