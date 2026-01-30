@@ -1,22 +1,42 @@
 # Dynamic-Technology
 
-⚙️ Dynamic Technology – A Create 6 Modpack
+![Modpack Version](https://img.shields.io/badge/version-0.0.3-blue)
+![Minecraft Version](https://img.shields.io/badge/minecraft-1.21.1-green)
+![NeoForge](https://img.shields.io/badge/loader-NeoForge-orange)
 
-Dynamic Technology is all about pushing the limits of Create 6 and taking automation to the next level. It includes almost all addons, mainly leaving out low effort or unbalanced addons and will get updates to include new and updated addons regularly!
+⚙️ **Dynamic Technology** – A Create 6 Modpack
 
-🔧What’s Inside?
-Create 6 & Expansions – Build bigger, better, and more complex machines with all the latest Create content, including almost all up-to-date addons, including Villagers, Sophisticated Storage and Toms simple storage contraption support and of course all beloved and lesser known Create Addons such as Dreams and desires, Bells and whistles, Winery, Ore excavation to name a few with more to come!
+Dynamic Technology is all about pushing the limits of **Create 6** and taking automation to the next level. It includes a curated selection of high-quality addons, focusing on depth and balance. We prioritize a smooth, immersive experience with regular updates to bring in the latest tech and automation tools.
 
-Complementary Mods – Carefully chosen mods that complement Create, adding depth without overwhelming the experience such as various food mods like Farmers delight or Cooking for Blockheads, Framed blocks, Chipped, Rechiseled and many more!
+## 🔧 What’s Inside?
 
-Quests – Features Quests that try to explain the new Create 6 features and addons included in the pack.
+### Create 6 & Expansions
+Build bigger, better, and more complex machines with the latest Create content. 
+- **Core**: Create 6.0 with full kinetic automation.
+- **Addons**: Dreams and Desires, Bells and Whistles, Winery, Ore Excavation, and more.
+- **Logistics**: Sophisticated Storage and Tom's Simple Storage (with contraption support).
 
-Immersive World – Stunning terrain, improved biomes, and small details that make the world feel alive with Terralith and Biomes Oh Plenty, Structures from Yungs and more, and of course Relics and Artifacts to make looting structures more interesting.
+### Complementary Mods
+Chosen to enhance without cluttering.
+- **Food & Cooking**: Farmer's Delight, Cooking for Blockheads, and various extensions.
+- **Aesthetics**: Framed Blocks, Chipped, Rechiseled, and high-performance Shaders.
+- **World-Gen**: Terralith, Biomes O' Plenty, and YUNG's world revisions.
 
-Balanced Gameplay – No unnecessary grind, just a smooth and rewarding automation journey in a kitchen sink style.
+### Immersive & Balanced
+- **Exploration**: looting structures is rewarded with Relics and Artifacts.
+- **Performance**: Heavily optimized with Lithium, Sodium, and other performance boosters for 1.21.1.
+- **Quests**: (In-Progress) Designed to guide you through the complexities of Create 6 and its addons.
 
-Multiplayer-Ready – Optimized for servers, including an official one
+## 🚀 Getting Started
 
-Why Did I Make This Modpack?
+1. **Launcher**: We recommend [Prism Launcher](https://prismlauncher.org/) for the best experience.
+2. **Setup**: Import the latest release zip and ensure you are using **Java 21**.
+3. **Multiplayer**: Optimized for server play with official community server support.
 
-I wanted to dive into the new Create 6.0 update and really explore everything it has to offer, but I also wanted a more complete experience - something that felt balanced, fun, and immersive. At the same time, I’ve always wanted to try my hand at making a modpack, so this was the perfect opportunity to put something together that I’d actually enjoy playing. Hopefully, you will too!
+---
+
+## Why Dynamic-Technology?
+
+I created this pack to dive deep into the **Create 6.0** update. I wanted an experience that felt complete—something balanced, fun, and immersive that pushes the boundaries of what's possible in automation. Whether you're a veteran tinkerer or new to the world of gears and cogs, there's something here for you.
+
+*Stay tuned for regular updates as we add more magic and technology addons!*

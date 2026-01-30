@@ -1,13 +1,13 @@
 name = "Create More: Linked Remote"
-filename = "cmlinkedremote-1.0.1.jar"
+filename = "cmlinkedremote-neoforge-2.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5644f8fb53f014a1f14662854035a8a20982a7ce"
+hash = "486e92ec265039c6fa44337a37e87d44dbcb06b3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6638807
+file-id = 7365085
 project-id = 1277244

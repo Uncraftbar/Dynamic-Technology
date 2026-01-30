@@ -1,16 +1,16 @@
 name = "Dynamic Technology"
 author = "Uncraftbar"
-version = "0.0.2"
+version = "0.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "17114276d71c0f4b818333a3736a16df1ed2a0d15a51eadad01cba268055c689"
+hash = "c18ac587adc88559619ff458791a5ec1e130e88fc1c9bd61615b82b387b080d0"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.187"
+neoforge = "21.1.213"
 
 [export]
 [export.curseforge]

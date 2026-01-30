@@ -1,0 +1,13 @@
+name = "Configurable"
+filename = "configurable-3.3.2+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "929a459057de433809c3251c102401d2985a79d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7356762
+project-id = 1092048

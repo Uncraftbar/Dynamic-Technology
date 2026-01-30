@@ -25,7 +25,8 @@
 - CodeChicken Lib 1.8.+
 - Collective
 - Colorful Hearts
-- Comforts (Fabric/Forge/Quilt)
+- Comforts
+- Configurable
 - Controlling
 - Cooking for Blockheads
 - CoroUtil
@@ -51,24 +52,22 @@
 - Create: Enchantable Machinery
 - Create: Enchantment Industry
 - Create: Escalated
-- Create: Extended Wrenches
 - Create: Extra Casing
 - Create: Fishing Bobber Detector | Automatic Fishing with Create
 - Create: Framed
 - Create: Garnished
 - Create: Hypertubes
 - Create: Integrated Farming
-- Create: Ironworks [Forge/Fabric/NeoForge]
+- Create: Ironworks
 - Create: Let The Adventure Begin
 - Create: Mechanical Botany
 - Create: Mobile Packages
 - Create: Molten Vents
-- Create: More Sand Papers
 - Create: Oxidized
 - Create: Pattern Schematics
 - Create: Power Loader
 - Create: Trading Floor
-- Create: Winery [Forge/NeoForge]
+- Create: Winery
 - Creeper Overhaul
 - Cristel Lib
 - Curios Compat Layer for Accessories
@@ -91,13 +90,13 @@
 - ForgeEndertech
 - FramedBlocks
 - Framework
-- FTB Chunks (Forge)
+- FTB Chunks (NeoForge)
 - FTB Essentials (Forge & Fabric)
 - FTB Filter System
 - FTB Library (Forge)
-- FTB Quests (Forge)
+- FTB Quests (NeoForge)
 - FTB Ranks (Forge)
-- FTB Teams (Forge)
+- FTB Teams (NeoForge)
 - FTB Ultimine (Forge)
 - FTB XMod Compat
 - Fusion (Connected Textures)
@@ -132,7 +131,8 @@
 - Placebo
 - Polymorph (Fabric/Forge/Quilt)
 - Prickle
-- Puzzles Lib [Forge & Fabric]
+- project-1283840
+- Puzzles Lib
 - Rechiseled
 - Rechiseled: Chipped
 - Reese's Sodium Options
